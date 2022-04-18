@@ -1,1 +1,1 @@
-Prática com python para não deixar os dedos esfriarem :)
+Prática com python para não deixar os dedos esfriarem :) )
